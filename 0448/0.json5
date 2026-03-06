@@ -1,0 +1,10 @@
+{
+  //  可以交付
+  "delivery": false,
+  //  质检通过
+  "quality_pass": false,
+  // 质检问题
+  "quality_control": "",
+  //  备注
+  "remark": ""
+}

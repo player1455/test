@@ -1,0 +1,14 @@
+{
+  //  作者
+  "author": "ZYC",
+  //  使用agent
+  "agent": "gemini-3-pro-thinking(使用Gemini最新，最强模型)",
+  //  已完成标注
+  "finish": true,
+  // 第三轮代码是否达标
+  "third_compliance": true,
+  // 第三轮代码是否达标-理由
+  "third_compliance_reason": "页面已经几乎完成了所要求的内容，且页面流畅不卡顿",
+  // 备注
+  "remark": "",
+}
