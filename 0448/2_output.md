@@ -15,7 +15,7 @@ English Translation of Requirements
 
 Implementation (Single HTML File)
 This version uses Tailwind CSS with a vibrant gradient theme, glassmorphism effects, and robust JavaScript logic for validation and data binding.
-```HTML
+```html 
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -5,7 +5,7 @@ Using a CSS library like Tailwind CSS is perfect for this because it allows us t
 Here is the complete, single-file solution. You can save this code as an .html file (for example, wizard.html) and open it directly in any web browser.
 
 Premium Multi-Step Wizard Template
-```HTML
+```html 
 <!DOCTYPE html>
 <html lang="en">
 <head>

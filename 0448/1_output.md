@@ -4,7 +4,7 @@ Using a CSS library like Tailwind CSS is perfect for this because it allows us t
 
 Here is the complete, single-file solution. You can save this code as an  file (for example, ) and open it directly in any web browser..htmlwizard.html
 
-```HTML
+```html 
 <!DOCTYPE html>
 <html lang="en">
 <head>
